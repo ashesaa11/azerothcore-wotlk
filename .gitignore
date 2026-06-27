@@ -11,6 +11,8 @@
 !/modules/CMakeLists.txt
 !/modules/*.h
 !/modules/*.cmake
+!/modules/mod-playerbots
+!/modules/mod-ollama-chat
 /build*/
 /var/*
 !/var/build/.gitkeep

@@ -1,0 +1,6 @@
+[submodule "modules/mod-playerbots"]
+	path = modules/mod-playerbots
+	url = https://github.com/liyunfan1223/mod-playerbots.git
+[submodule "modules/mod-ollama-chat"]
+	path = modules/mod-ollama-chat
+	url = https://github.com/DustinHendrickson/mod-ollama-chat
